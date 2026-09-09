@@ -7,7 +7,7 @@ Podcasts in any terminal. Fast, clean, offline.
 - **Latest release**: `v1.3.1` (2026-04-25)
 - **Last commit**: 2026-04-25
 - **License**: GPL-3.0
-- **Stars**: 169 · **Forks**: 6 · **Open issues**: 23 · **Contributors**: 2
+- **Stars**: 169 · **Forks**: 7 · **Open issues**: 23 · **Contributors**: 2
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/podliner> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T05:03:59Z._
+_Last regenerated: 2026-09-09T19:16:14Z._
