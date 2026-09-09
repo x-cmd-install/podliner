@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 5332,
       "digest": "sha256:71dccc6174131f483f7be275864099467b35de713690eb415ac2eca0cf84e4a0",
-      "download_count": 167,
+      "download_count": 168,
       "created_at": "2026-04-25T17:38:08Z",
       "updated_at": "2026-04-25T17:38:08Z",
       "browser_download_url": "https://github.com/timkicker/podliner/releases/download/v1.3.1/install.sh"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 33245763,
       "digest": "sha256:0a132dbc8bf0842ea021cf44ac301acf88855ed4e0d7c1a954879101ce8ca10e",
-      "download_count": 390,
+      "download_count": 393,
       "created_at": "2026-04-25T17:38:04Z",
       "updated_at": "2026-04-25T17:38:08Z",
       "browser_download_url": "https://github.com/timkicker/podliner/releases/download/v1.3.1/podliner-linux-x64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 348693583,
       "digest": "sha256:8f9ddb7ff24aa1de8c7d11a87ce0aa671eba9ea2e46bd00889b79b20468005b2",
-      "download_count": 500,
+      "download_count": 501,
       "created_at": "2026-04-25T17:38:08Z",
       "updated_at": "2026-04-25T17:38:22Z",
       "browser_download_url": "https://github.com/timkicker/podliner/releases/download/v1.3.1/podliner-win-x64.exe"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 780,
       "digest": "sha256:03b3802eda72fd33e50f726fec335b93c91ae8146428b8a1cc5796eab314137f",
-      "download_count": 172,
+      "download_count": 173,
       "created_at": "2026-04-25T17:38:08Z",
       "updated_at": "2026-04-25T17:38:09Z",
       "browser_download_url": "https://github.com/timkicker/podliner/releases/download/v1.3.1/SHA256SUMS"
