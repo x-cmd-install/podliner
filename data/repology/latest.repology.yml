@@ -1,0 +1,12 @@
+- repo: aur
+  srcname: podliner-bin
+  binname: podliner-bin
+  visiblename: podliner-bin
+  version: 2.0.0
+  origversion: 2.0.0-1
+  status: unique
+  summary: 'Podliner: TUI podcast player (prebuilt binary)'
+  maintainers:
+    - timkicker@aur
+  licenses:
+    - MIT
