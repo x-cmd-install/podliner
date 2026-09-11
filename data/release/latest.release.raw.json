@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 5332,
       "digest": "sha256:71dccc6174131f483f7be275864099467b35de713690eb415ac2eca0cf84e4a0",
-      "download_count": 1,
+      "download_count": 5,
       "created_at": "2026-09-10T17:40:44Z",
       "updated_at": "2026-09-10T17:40:44Z",
       "browser_download_url": "https://github.com/timkicker/podliner/releases/download/v2.0.0/install.sh"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 32490656,
       "digest": "sha256:62cbee671f7b79ddd931b794e482628e4615bab88d34312a283c10d9dc26f575",
-      "download_count": 23,
+      "download_count": 42,
       "created_at": "2026-09-10T17:40:40Z",
       "updated_at": "2026-09-10T17:40:43Z",
       "browser_download_url": "https://github.com/timkicker/podliner/releases/download/v2.0.0/podliner-linux-x64.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 780,
       "digest": "sha256:dd1a8a1519d09b7d60f6f5172d848581a96fa31837dd4c54be2f69e4fb197210",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-09-10T17:40:45Z",
       "updated_at": "2026-09-10T17:40:45Z",
       "browser_download_url": "https://github.com/timkicker/podliner/releases/download/v2.0.0/SHA256SUMS"
