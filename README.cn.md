@@ -14,11 +14,11 @@ x install podliner
 
 ## 代码洞察
 
-合计: **31,271** 行代码（覆盖前 5 种语言、共 **285** 个文件）。
+合计: **31,370** 行代码（覆盖前 5 种语言、共 **287** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| CSharp | 30,570 | 2,672 | 6,320 | 276 |
+| CSharp | 30,669 | 2,720 | 6,358 | 278 |
 | Sh | 316 | 28 | 51 | 2 |
 | PowerShell | 236 | 26 | 33 | 1 |
 | MsBuild | 92 | 6 | 24 | 5 |
@@ -31,8 +31,8 @@ x install podliner
 
 ## 发布
 
-- **最新版本**: `v2.0.0` (2026-09-10)
-- **最近提交**: 2026-09-10
+- **最新版本**: `v2.0.1` (2026-09-14)
+- **最近提交**: 2026-09-14
 - **Release 含资产**: 10 个
 
 ## 流行度
@@ -41,33 +41,33 @@ x install podliner
 
 ## 累计统计
 
-- **发布数**: 46 · **已合并 PR**: 7 · **开放 PR**: 0 · **已关闭 issue**: 22 · **开放 issue**: 1 · **提交数**: 252
+- **发布数**: 47 · **已合并 PR**: 8 · **开放 PR**: 0 · **已关闭 issue**: 22 · **开放 issue**: 1 · **提交数**: 266
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 1 | 4 | 0 | 0 | 0 | 39 |
-| last60d | 2026-07-16 | 1 | 4 | 0 | 0 | 0 | 39 |
-| 90d | 2026-06-16 | 1 | 4 | 0 | 0 | 0 | 39 |
-| last180d | 2026-03-18 | 4 | 4 | 0 | 4 | 0 | 63 |
-| 360d | 2025-09-19 | 46 | 7 | 0 | 22 | 1 | 198 |
-| last720d | 2024-09-24 | 46 | 7 | 0 | 22 | 1 | 252 |
+| 30d | 2026-08-16 | 2 | 5 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-17 | 2 | 5 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-17 | 2 | 5 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-19 | 5 | 5 | 0 | 4 | 0 | 0 |
+| 360d | 2025-09-20 | 47 | 8 | 0 | 22 | 1 | 0 |
+| last720d | 2024-09-25 | 47 | 8 | 0 | 22 | 1 | 266 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [install-macos.sh](https://github.com/timkicker/podliner/releases/download/v2.0.0/install-macos.sh) | 5.7 KiB | `native/darwin/x64` |
-| [install.ps1](https://github.com/timkicker/podliner/releases/download/v2.0.0/install.ps1) | 11.0 KiB | `other` |
-| [install.sh](https://github.com/timkicker/podliner/releases/download/v2.0.0/install.sh) | 5.2 KiB | `other` |
-| [podliner-linux-arm64.tar.gz](https://github.com/timkicker/podliner/releases/download/v2.0.0/podliner-linux-arm64.tar.gz) | 29.6 MiB | `native/linux/arm64` |
-| [podliner-linux-x64.tar.gz](https://github.com/timkicker/podliner/releases/download/v2.0.0/podliner-linux-x64.tar.gz) | 31.0 MiB | `native/unknown` |
-| [podliner-osx-arm64.tar.gz](https://github.com/timkicker/podliner/releases/download/v2.0.0/podliner-osx-arm64.tar.gz) | 29.7 MiB | `native/darwin/arm64` |
-| [podliner-osx-x64.tar.gz](https://github.com/timkicker/podliner/releases/download/v2.0.0/podliner-osx-x64.tar.gz) | 31.2 MiB | `native/darwin/x64` |
-| [podliner-win-x64.exe](https://github.com/timkicker/podliner/releases/download/v2.0.0/podliner-win-x64.exe) | 330.7 MiB | `other` |
-| [podliner-win-x64.zip](https://github.com/timkicker/podliner/releases/download/v2.0.0/podliner-win-x64.zip) | 147.3 MiB | `other` |
-| [SHA256SUMS](https://github.com/timkicker/podliner/releases/download/v2.0.0/SHA256SUMS) | 780 B | `other` |
+| [install-macos.sh](https://github.com/timkicker/podliner/releases/download/v2.0.1/install-macos.sh) | 5.7 KiB | `native/darwin/x64` |
+| [install.ps1](https://github.com/timkicker/podliner/releases/download/v2.0.1/install.ps1) | 11.0 KiB | `other` |
+| [install.sh](https://github.com/timkicker/podliner/releases/download/v2.0.1/install.sh) | 5.2 KiB | `other` |
+| [podliner-linux-arm64.tar.gz](https://github.com/timkicker/podliner/releases/download/v2.0.1/podliner-linux-arm64.tar.gz) | 29.6 MiB | `native/linux/arm64` |
+| [podliner-linux-x64.tar.gz](https://github.com/timkicker/podliner/releases/download/v2.0.1/podliner-linux-x64.tar.gz) | 31.0 MiB | `native/unknown` |
+| [podliner-osx-arm64.tar.gz](https://github.com/timkicker/podliner/releases/download/v2.0.1/podliner-osx-arm64.tar.gz) | 29.7 MiB | `native/darwin/arm64` |
+| [podliner-osx-x64.tar.gz](https://github.com/timkicker/podliner/releases/download/v2.0.1/podliner-osx-x64.tar.gz) | 31.2 MiB | `native/darwin/x64` |
+| [podliner-win-x64.exe](https://github.com/timkicker/podliner/releases/download/v2.0.1/podliner-win-x64.exe) | 330.7 MiB | `other` |
+| [podliner-win-x64.zip](https://github.com/timkicker/podliner/releases/download/v2.0.1/podliner-win-x64.zip) | 147.3 MiB | `other` |
+| [SHA256SUMS](https://github.com/timkicker/podliner/releases/download/v2.0.1/SHA256SUMS) | 780 B | `other` |
 
 ## 改进这些数据
 
@@ -78,4 +78,4 @@ podliner 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260914.yml` · 2026-09-14T05:19:25Z._
+_数据快照: `data/card/260915.yml` · 2026-09-15T05:32:29Z._
