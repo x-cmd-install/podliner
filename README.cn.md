@@ -4,7 +4,7 @@
 
 Podcasts in any terminal. Fast, clean, offline.
 
-![podliner](https://repo.x-cmd.io/podliner.svg?lang=zh)
+[![x-cmd/install — podliner Code Quality Monitoring Repo Card](https://repo.x-cmd.io/podliner.svg?lang=zh)](https://x-cmd.com/install/podliner)
 
 ## 安装
 
@@ -47,12 +47,12 @@ x install podliner
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 2 | 5 | 0 | 0 | 0 | 52 |
-| last60d | 2026-07-20 | 2 | 5 | 0 | 0 | 0 | 52 |
-| 90d | 2026-06-20 | 2 | 5 | 0 | 0 | 0 | 52 |
-| last180d | 2026-03-22 | 5 | 5 | 0 | 4 | 0 | 76 |
-| 360d | 2025-09-23 | 47 | 8 | 0 | 22 | 1 | 211 |
-| last720d | 2024-09-28 | 47 | 8 | 0 | 22 | 1 | 266 |
+| 30d | 2026-08-21 | 2 | 5 | 0 | 0 | 0 | 52 |
+| last60d | 2026-07-22 | 2 | 5 | 0 | 0 | 0 | 52 |
+| 90d | 2026-06-22 | 2 | 5 | 0 | 0 | 0 | 52 |
+| last180d | 2026-03-24 | 5 | 5 | 0 | 4 | 0 | 76 |
+| 360d | 2025-09-25 | 47 | 8 | 0 | 22 | 1 | 211 |
+| last720d | 2024-09-30 | 47 | 8 | 0 | 22 | 1 | 266 |
 
 ## Release 资产
 
@@ -78,4 +78,4 @@ podliner 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T05:00:38Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:13:26Z._
