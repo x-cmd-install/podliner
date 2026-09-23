@@ -4,7 +4,7 @@
 
 Podcasts in any terminal. Fast, clean, offline.
 
-[![x-cmd/install — podliner Code Quality Monitoring Repo Card](https://repo.x-cmd.io/podliner.svg)](https://x-cmd.com/install/podliner)
+[![x-cmd/install — podliner Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/podliner.svg)](https://x-cmd.com/install/podliner)
 
 ## Install
 
@@ -37,7 +37,7 @@ Total: **31,370** lines of code across **287** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 172 · **Forks**: 8 · **Open issues**: 23 · **Contributors**: 3
+- **Stars**: 173 · **Forks**: 8 · **Open issues**: 23 · **Contributors**: 3
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **31,370** lines of code across **287** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 2 | 5 | 0 | 0 | 0 | 52 |
-| last60d | 2026-07-24 | 2 | 5 | 0 | 0 | 0 | 52 |
-| 90d | 2026-06-24 | 2 | 5 | 0 | 0 | 0 | 52 |
-| last180d | 2026-03-26 | 5 | 5 | 0 | 4 | 0 | 76 |
-| 360d | 2025-09-27 | 47 | 8 | 0 | 22 | 1 | 211 |
-| last720d | 2024-10-02 | 47 | 8 | 0 | 22 | 1 | 266 |
+| 30d | 2026-08-24 | 2 | 5 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 2 | 5 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-25 | 2 | 5 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-27 | 5 | 5 | 0 | 4 | 0 | 0 |
+| 360d | 2025-09-28 | 47 | 8 | 0 | 22 | 1 | 0 |
+| last720d | 2024-10-03 | 47 | 8 | 0 | 22 | 1 | 266 |
 
 ## Release assets
 
@@ -78,4 +78,4 @@ Install metadata for podliner lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:12:57Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:21:29Z._
