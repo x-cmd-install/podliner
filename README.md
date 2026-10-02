@@ -37,7 +37,7 @@ Total: **35,619** lines of code across **324** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 176 · **Forks**: 9 · **Open issues**: 26 · **Contributors**: 3
+- **Stars**: 176 · **Forks**: 10 · **Open issues**: 26 · **Contributors**: 3
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **35,619** lines of code across **324** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 5 | 9 | 0 | 3 | 0 | 0 |
-| last60d | 2026-08-02 | 5 | 9 | 0 | 3 | 0 | 0 |
-| 90d | 2026-07-03 | 5 | 9 | 0 | 3 | 0 | 0 |
-| last180d | 2026-04-04 | 8 | 9 | 0 | 7 | 0 | 0 |
-| 360d | 2025-10-06 | 50 | 12 | 0 | 25 | 1 | 0 |
-| last720d | 2024-10-11 | 50 | 12 | 0 | 25 | 1 | 298 |
+| 30d | 2026-09-02 | 5 | 9 | 0 | 3 | 0 | 80 |
+| last60d | 2026-08-03 | 5 | 9 | 0 | 3 | 0 | 80 |
+| 90d | 2026-07-04 | 5 | 9 | 0 | 3 | 0 | 80 |
+| last180d | 2026-04-05 | 8 | 9 | 0 | 7 | 0 | 101 |
+| 360d | 2025-10-07 | 50 | 12 | 0 | 25 | 1 | 237 |
+| last720d | 2024-10-12 | 50 | 12 | 0 | 25 | 1 | 298 |
 
 ## Release assets
 
@@ -78,4 +78,4 @@ Install metadata for podliner lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261001.yml` · 2026-10-01T06:12:41Z._
+_Snapshot: `data/card/261002.yml` · 2026-10-02T05:50:02Z._
