@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 5813,
       "digest": "sha256:31c88f1074cd9e18969bee052dc2d7e1a2e006f2a847c1f36a168f62487a703a",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-10-05T13:56:49Z",
       "updated_at": "2026-10-05T13:56:49Z",
       "browser_download_url": "https://github.com/timkicker/podliner/releases/download/v2.2.1/install-macos.sh"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 11229,
       "digest": "sha256:342f022bf50834cfe776b4d1fa6de2796f10a1fd45548a3d6fd1d9308ec49a5b",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-10-05T13:56:49Z",
       "updated_at": "2026-10-05T13:56:49Z",
       "browser_download_url": "https://github.com/timkicker/podliner/releases/download/v2.2.1/install.ps1"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 5332,
       "digest": "sha256:71dccc6174131f483f7be275864099467b35de713690eb415ac2eca0cf84e4a0",
-      "download_count": 10,
+      "download_count": 13,
       "created_at": "2026-10-05T13:56:49Z",
       "updated_at": "2026-10-05T13:56:49Z",
       "browser_download_url": "https://github.com/timkicker/podliner/releases/download/v2.2.1/install.sh"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 33185913,
       "digest": "sha256:9cf62d0607ba70dc98dce0837640d56041d36833d9981a7c71967129829b1aad",
-      "download_count": 70,
+      "download_count": 77,
       "created_at": "2026-10-05T13:56:44Z",
       "updated_at": "2026-10-05T13:56:48Z",
       "browser_download_url": "https://github.com/timkicker/podliner/releases/download/v2.2.1/podliner-linux-x64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 31815547,
       "digest": "sha256:79e7586b1dd9113d8f6d17a643ff73bb12a50b2f5c9a3172392148f8d010898b",
-      "download_count": 6,
+      "download_count": 8,
       "created_at": "2026-10-05T13:56:44Z",
       "updated_at": "2026-10-05T13:56:47Z",
       "browser_download_url": "https://github.com/timkicker/podliner/releases/download/v2.2.1/podliner-osx-arm64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 348484396,
       "digest": "sha256:c730edbd3fc7050f9c1cae22360d0ce616d8839b53ae01a20f7a0c00f964c9f6",
-      "download_count": 55,
+      "download_count": 64,
       "created_at": "2026-10-05T13:56:47Z",
       "updated_at": "2026-10-05T13:57:04Z",
       "browser_download_url": "https://github.com/timkicker/podliner/releases/download/v2.2.1/podliner-win-x64.exe"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 155182841,
       "digest": "sha256:827c7a012eaa3ef5667972524a343a07cf7176b37a75c8c408fad4219d78c5e5",
-      "download_count": 4,
+      "download_count": 6,
       "created_at": "2026-10-05T13:56:44Z",
       "updated_at": "2026-10-05T13:56:50Z",
       "browser_download_url": "https://github.com/timkicker/podliner/releases/download/v2.2.1/podliner-win-x64.zip"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 780,
       "digest": "sha256:5dffbd269dd973d7550e07f7655354eea0c5846f0dd1fd1d866a4ae9d856b53f",
-      "download_count": 15,
+      "download_count": 18,
       "created_at": "2026-10-05T13:56:49Z",
       "updated_at": "2026-10-05T13:56:50Z",
       "browser_download_url": "https://github.com/timkicker/podliner/releases/download/v2.2.1/SHA256SUMS"
