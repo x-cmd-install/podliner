@@ -2,8 +2,8 @@
   srcname: podliner-bin
   binname: podliner-bin
   visiblename: podliner-bin
-  version: 2.3.0
-  origversion: 2.3.0-1
+  version: 2.4.0
+  origversion: 2.4.0-1
   status: unique
   summary: 'Podliner: TUI podcast player (prebuilt binary)'
   maintainers:
