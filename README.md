@@ -14,11 +14,11 @@ x install podliner
 
 ## Code insight
 
-Total: **36,295** lines of code across **328** files in the top 5 languages.
+Total: **36,567** lines of code across **329** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| CSharp | 34,412 | 3,253 | 7,111 | 312 |
+| CSharp | 34,684 | 3,277 | 7,153 | 313 |
 | Python | 1,181 | 34 | 196 | 8 |
 | Sh | 316 | 28 | 51 | 2 |
 | PowerShell | 236 | 26 | 33 | 1 |
@@ -31,43 +31,43 @@ Total: **36,295** lines of code across **328** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v2.4.0` (2026-11-11)
-- **Last commit**: 2026-11-11
+- **Latest**: `v2.5.0` (2026-11-17)
+- **Last commit**: 2026-11-17
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 182 · **Forks**: 9 · **Open issues**: 30 · **Contributors**: 3
+- **Stars**: 184 · **Forks**: 9 · **Open issues**: 30 · **Contributors**: 3
 
 ## Totals (cumulative)
 
-- **Releases**: 53 · **Merged PRs**: 12 · **Open PRs**: 0 · **Closed issues**: 27 · **Open issues**: 3 · **Commits**: 306
+- **Releases**: 55 · **Merged PRs**: 12 · **Open PRs**: 0 · **Closed issues**: 29 · **Open issues**: 1 · **Commits**: 308
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 1 | 0 | 0 | 1 | 2 | 2 |
-| last60d | 2026-09-18 | 6 | 4 | 0 | 5 | 2 | 36 |
-| 90d | 2026-08-19 | 8 | 9 | 0 | 5 | 2 | 88 |
-| last180d | 2026-05-21 | 8 | 9 | 0 | 5 | 2 | 88 |
-| 360d | 2025-11-22 | 15 | 9 | 0 | 16 | 2 | 124 |
-| last720d | 2024-11-27 | 53 | 12 | 0 | 27 | 3 | 306 |
+| 30d | 2026-10-20 | 3 | 0 | 0 | 3 | 0 | 4 |
+| last60d | 2026-09-20 | 8 | 4 | 0 | 7 | 0 | 38 |
+| 90d | 2026-08-21 | 10 | 9 | 0 | 7 | 0 | 90 |
+| last180d | 2026-05-23 | 10 | 9 | 0 | 7 | 0 | 90 |
+| 360d | 2025-11-24 | 17 | 9 | 0 | 18 | 0 | 126 |
+| last720d | 2024-11-29 | 55 | 12 | 0 | 29 | 1 | 308 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [install-macos.sh](https://github.com/timkicker/podliner/releases/download/v2.4.0/install-macos.sh) | 5.7 KiB | `native/darwin/x64` |
-| [install.ps1](https://github.com/timkicker/podliner/releases/download/v2.4.0/install.ps1) | 11.0 KiB | `other` |
-| [install.sh](https://github.com/timkicker/podliner/releases/download/v2.4.0/install.sh) | 5.2 KiB | `other` |
-| [podliner-linux-arm64.tar.gz](https://github.com/timkicker/podliner/releases/download/v2.4.0/podliner-linux-arm64.tar.gz) | 30.3 MiB | `native/linux/arm64` |
-| [podliner-linux-x64.tar.gz](https://github.com/timkicker/podliner/releases/download/v2.4.0/podliner-linux-x64.tar.gz) | 31.7 MiB | `native/unknown` |
-| [podliner-osx-arm64.tar.gz](https://github.com/timkicker/podliner/releases/download/v2.4.0/podliner-osx-arm64.tar.gz) | 30.4 MiB | `native/darwin/arm64` |
-| [podliner-osx-x64.tar.gz](https://github.com/timkicker/podliner/releases/download/v2.4.0/podliner-osx-x64.tar.gz) | 31.9 MiB | `native/darwin/x64` |
-| [podliner-win-x64.exe](https://github.com/timkicker/podliner/releases/download/v2.4.0/podliner-win-x64.exe) | 332.4 MiB | `other` |
-| [podliner-win-x64.zip](https://github.com/timkicker/podliner/releases/download/v2.4.0/podliner-win-x64.zip) | 148.0 MiB | `other` |
-| [SHA256SUMS](https://github.com/timkicker/podliner/releases/download/v2.4.0/SHA256SUMS) | 780 B | `other` |
+| [install-macos.sh](https://github.com/timkicker/podliner/releases/download/v2.5.0/install-macos.sh) | 5.7 KiB | `native/darwin/x64` |
+| [install.ps1](https://github.com/timkicker/podliner/releases/download/v2.5.0/install.ps1) | 11.0 KiB | `other` |
+| [install.sh](https://github.com/timkicker/podliner/releases/download/v2.5.0/install.sh) | 5.2 KiB | `other` |
+| [podliner-linux-arm64.tar.gz](https://github.com/timkicker/podliner/releases/download/v2.5.0/podliner-linux-arm64.tar.gz) | 30.3 MiB | `native/linux/arm64` |
+| [podliner-linux-x64.tar.gz](https://github.com/timkicker/podliner/releases/download/v2.5.0/podliner-linux-x64.tar.gz) | 31.7 MiB | `native/unknown` |
+| [podliner-osx-arm64.tar.gz](https://github.com/timkicker/podliner/releases/download/v2.5.0/podliner-osx-arm64.tar.gz) | 30.4 MiB | `native/darwin/arm64` |
+| [podliner-osx-x64.tar.gz](https://github.com/timkicker/podliner/releases/download/v2.5.0/podliner-osx-x64.tar.gz) | 31.9 MiB | `native/darwin/x64` |
+| [podliner-win-x64.exe](https://github.com/timkicker/podliner/releases/download/v2.5.0/podliner-win-x64.exe) | 332.4 MiB | `other` |
+| [podliner-win-x64.zip](https://github.com/timkicker/podliner/releases/download/v2.5.0/podliner-win-x64.zip) | 148.0 MiB | `other` |
+| [SHA256SUMS](https://github.com/timkicker/podliner/releases/download/v2.5.0/SHA256SUMS) | 780 B | `other` |
 
 ## Improve this data
 
@@ -78,4 +78,4 @@ Install metadata for podliner lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T09:19:57Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T09:41:43Z._
