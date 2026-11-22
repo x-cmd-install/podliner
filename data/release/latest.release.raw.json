@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 5813,
       "digest": "sha256:31c88f1074cd9e18969bee052dc2d7e1a2e006f2a847c1f36a168f62487a703a",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-17T20:53:43Z",
       "updated_at": "2026-11-17T20:53:44Z",
       "browser_download_url": "https://github.com/timkicker/podliner/releases/download/v2.5.0/install-macos.sh"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 33196310,
       "digest": "sha256:cb7c848778de4879cb14d9dae88973bcdc6c6da7eb4d348fa9558a1b6175e15d",
-      "download_count": 66,
+      "download_count": 71,
       "created_at": "2026-11-17T20:53:41Z",
       "updated_at": "2026-11-17T20:53:43Z",
       "browser_download_url": "https://github.com/timkicker/podliner/releases/download/v2.5.0/podliner-linux-x64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 31844302,
       "digest": "sha256:6965e6bc51b62e212d6226be92faca3e434cbb05c723a50476b309f12341200c",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-17T20:53:41Z",
       "updated_at": "2026-11-17T20:53:42Z",
       "browser_download_url": "https://github.com/timkicker/podliner/releases/download/v2.5.0/podliner-osx-arm64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 348513068,
       "digest": "sha256:bd34675332cfa3671d227ccb8b035f9f237d7ce34f7eee038bfddcac932fdd1b",
-      "download_count": 59,
+      "download_count": 65,
       "created_at": "2026-11-17T20:53:42Z",
       "updated_at": "2026-11-17T20:53:55Z",
       "browser_download_url": "https://github.com/timkicker/podliner/releases/download/v2.5.0/podliner-win-x64.exe"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 780,
       "digest": "sha256:a15139d224add88c66565e4bceb2d20e2ce484639f5a024ca547cbd69a840fc6",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-11-17T20:53:43Z",
       "updated_at": "2026-11-17T20:53:44Z",
       "browser_download_url": "https://github.com/timkicker/podliner/releases/download/v2.5.0/SHA256SUMS"
