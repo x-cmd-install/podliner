@@ -47,12 +47,12 @@ Total: **36,567** lines of code across **329** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 3 | 0 | 0 | 3 | 0 | 4 |
-| last60d | 2026-09-22 | 8 | 4 | 0 | 7 | 0 | 38 |
-| 90d | 2026-08-23 | 10 | 9 | 0 | 7 | 0 | 90 |
-| last180d | 2026-05-25 | 10 | 9 | 0 | 7 | 0 | 90 |
-| 360d | 2025-11-26 | 17 | 9 | 0 | 18 | 0 | 126 |
-| last720d | 2024-12-01 | 55 | 12 | 0 | 29 | 1 | 308 |
+| 30d | 2026-10-23 | 3 | 0 | 0 | 3 | 0 | 4 |
+| last60d | 2026-09-23 | 8 | 4 | 0 | 7 | 0 | 27 |
+| 90d | 2026-08-24 | 10 | 9 | 0 | 7 | 0 | 90 |
+| last180d | 2026-05-26 | 10 | 9 | 0 | 7 | 0 | 90 |
+| 360d | 2025-11-27 | 17 | 9 | 0 | 18 | 0 | 126 |
+| last720d | 2024-12-02 | 55 | 12 | 0 | 29 | 1 | 308 |
 
 ## Release assets
 
@@ -78,4 +78,4 @@ Install metadata for podliner lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T07:20:42Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T07:37:32Z._
